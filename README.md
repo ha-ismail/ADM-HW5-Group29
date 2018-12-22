@@ -21,4 +21,5 @@ The script with the code for our analysis.
 Function we used for our analysis.
 
 - `files`:  
-During our analysis, we save same of the results in .txt files. This folder includes all of them. Insted of runnig our code, it is possible to check the correctness of our outputs, opening those files.
+During our analysis, we save same of the results in .txt files. This folder includes all of them, except *C0_path.txt*, for its high dimension (however you can download it from Google [Drive](https://drive.google.com/file/d/1Y0cq5ZCnVGcq0-Xt9kkgJxpSD3ISxCZQ/view?usp=sharing).  
+Insted of runnig our code, it is possible to check the correctness of our outputs, opening those files.
