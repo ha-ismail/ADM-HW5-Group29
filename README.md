@@ -17,8 +17,8 @@ The files we used to complete our analysis:
 - `Homework_5.ipynb`:  
 The script with the code for our analysis.
 
-- `functions.py`: 
+- `functions.py`:   
 Function we used for our analysis.
 
-- `files`:
+- `files`:  
 During our analysis, we save same of the results in .txt files. This folder includes all of them. Insted of runnig our code, it is possible to check the correctness of our outputs, opening those files.
