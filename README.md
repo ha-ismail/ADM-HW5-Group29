@@ -14,5 +14,11 @@ The files we used to complete our analysis:
 - [wiki-topcats-page-names.txt](https://snap.stanford.edu/data/wiki-topcats.html)
 
 ## Script Description:
-- `AMD_HW5.ipynb`:  
-The script with the code of our analysis.
+- `Homework_5.ipynb`:  
+The script with the code for our analysis.
+
+- `functions.py`: 
+Function we used for our analysis.
+
+- `files`:
+During our analysis, we save same of the results in .txt files. This folder includes all of them. Insted of runnig our code, it is possible to check the correctness of our outputs, opening those files.
